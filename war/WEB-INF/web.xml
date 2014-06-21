@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+	version="2.5">
+	<!-- Servlets -->
+	<servlet>
+		<servlet-name>signinServlet</servlet-name>
+		<servlet-class>com.edison.payroll.server.SigninServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>signinServlet</servlet-name>
+		<url-pattern>/signin</url-pattern>
+	</servlet-mapping>
+	<!-- FileUpload -->
+
+	<servlet>
+		<servlet-name>FileUpload</servlet-name>
+		<servlet-class>com.edison.payroll.server.FileUpload</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>FileUpload</servlet-name>
+		<url-pattern>/FileUpload</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>TestServlet</servlet-name>
+		<servlet-class>com.edison.payroll.server.TestServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>TestServlet</servlet-name>
+		<url-pattern>/app/test</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>StoreServlet</servlet-name>
+		<servlet-class>com.edison.payroll.server.StoreServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>StoreServlet</servlet-name>
+		<url-pattern>/app/store</url-pattern>
+	</servlet-mapping>
+	
+		<servlet>
+		<servlet-name>RetriveEmpServlet</servlet-name>
+		<servlet-class>com.edison.payroll.server.RetriveEmpServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>RetriveEmpServlet</servlet-name>
+		<url-pattern>/app/retrive_emp</url-pattern>
+	</servlet-mapping>
+
+
+</web-app>

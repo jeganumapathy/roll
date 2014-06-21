@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="../favicon.ico">
+<link rel="stylesheet" href="../css/bootstrapValidator.css" />
+
+<title>Dashboard</title>
+<!-- Bootstrap core CSS -->
+<!--  -->
+<link href="../css/bootstrap.min.css" rel="stylesheet">
+<!-- Custom styles for this template -->
+<link href="../css/dashboard.css" rel="stylesheet">
+<link href="../css/bootstrap-datetimepicker.min.css" rel="stylesheet">
+
+<!-- Just for debugging purposes. Don't actually copy this line! -->
+<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+	<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse"
+					data-target=".navbar-collapse">
+					<span class="sr-only">Toggle navigation</span> <span
+						class="icon-bar"></span> <span class="icon-bar"></span> <span
+						class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#">Project name</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-3 col-md-2 sidebar">
+				<ul class="nav nav-sidebar">
+					<li><a href="dashboard.html">Payroll Status</a></li>
+					<li class="active"><a href="emp_info.html">Employee
+							information</a></li>
+					<li><a href="ctc_template.html">CTC template</a></li>
+					<li><a href="import.html">Excel payroll importer</a></li>
+					<li><a href="#">Offer generation</a></li>
+					<li><a href="timesheet_details.html">TimeSheet details</a></li>
+					<li><a href="#">Payroll manager</a></li>
+				</ul>
+			</div>
+			<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+				<div id="result"></div>
+				<div class="panel panel-primary" id="main">
+					<div class="panel-heading">
+						<h3 class="panel-title">Info</h3>
+					</div>
+					<div class="panel-body">
+						<div class="row">
+							<div class="col-xs-6">
+								<form class="form-horizontal" role="form" id="defaultForm">
+									<div class="form-group">
+										<label class="col-sm-5 control-label">Employee No:</label>
+										<div class="col-sm-7">
+											<input class="form-control" id="emp_no" type="text" name="emp_no">
+										</div>
+									</div>
+									<div class="form-group">
+										<label class="col-sm-5 control-label">Employee Name: </label>
+										<div class="col-sm-7">
+											<input class="form-control" id="emp_name" type="text"
+												name="emp_name">
+										</div>
+									</div>
+									<div class="form-group">
+										<label class="col-sm-5 control-label">Pan No:</label>
+										<div class="col-sm-7">
+											<input class="form-control" id="pan_no" type="text" name="pan_no">
+										</div>
+									</div>
+									<div class="form-group">
+										<label class="col-sm-5 control-label">CTC/Annum: </label>
+										<div class="col-sm-7">
+											<input class="form-control" id="ctc_annum" type="text"
+												name="ctc_annum">
+										</div>
+									</div>
+									<div class="form-group">
+										<label class="col-sm-5 control-label">Department:</label>
+										<div class="col-sm-7">
+											<input class="form-control" id="department" type="text"
+												name="department">
+										</div>
+									</div>
+
+									<div class="form-group">
+										<label class="col-sm-5 control-label">Designation:</label>
+										<div class="col-sm-7">
+											<input class="form-control" id="designation" type="text"
+												name="designation">
+										</div>
+									</div>
+									<div class="form-group">
+										<label class="col-sm-5 control-label">Start Date:</label>
+										<div class="col-sm-5">
+											<div class="container">
+												<div class="row">
+													<div class='col-sm-2'>
+														<div class="form-group">
+															<div class='input-group date' id='datetimepicker1'>
+																<input type='text' class="form-control" id="start_date" name="start_date"/>
+																<span class="input-group-addon"><span
+																	class="glyphicon glyphicon-calendar"></span> </span>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+
+										</div>
+									</div>
+									<div class="form-group" id="target">
+										<div class="col-sm-5"></div>
+										<div class="col-sm-5">
+											<input class="form-control" type="submit" value="Save" />
+										</div>
+									</div>
+								</form>
+							</div>
+							<div class="col-xs-6">
+								<form class="form-horizontal" role="form">
+									<div class="form-group">
+										<label class="col-sm-5 control-label">Bank Account
+											Name:</label>
+										<div class="col-sm-7">
+											<input class="form-control" id="bank_account_name" type="text"
+												value=" ">
+										</div>
+									</div>
+
+									<div class="form-group">
+										<label class="col-sm-5 control-label">Bank account
+											number:</label>
+										<div class="col-sm-7">
+											<input class="form-control" id="bank_account_no" type="text"
+												value=" ">
+										</div>
+									</div>
+									<div class="form-group">
+										<label class="col-sm-5 control-label">IFSC Code:</label>
+										<div class="col-sm-7">
+											<input class="form-control" id="ifsc_code" type="text"
+												value=" ">
+										</div>
+									</div>
+
+									<div class="form-group">
+										<label class="col-sm-5 control-label">Account type:</label>
+										<div class="col-sm-7">
+											<input class="form-control" id="accoutn_type" type="text"
+												value=" ">
+										</div>
+									</div>
+
+									<div class="form-group">
+										<label class="col-sm-5 control-label">CTC Template:</label>
+										<div class="col-sm-7">
+											<input class="form-control" id="ctc_template" type="text"
+												value=" ">
+										</div>
+									</div>
+
+									<div class="form-group">
+										<label class="col-sm-5 control-label">Salary effective
+											from:</label>
+										<div class="col-sm-7">
+											<div class="container">
+												<div class="row">
+													<div class='col-sm-2'>
+														<div class="form-group">
+															<div class='input-group date' id='datetimepicker2'>
+																<input type='text' class="form-control" /> <span
+																	class="input-group-addon"><span
+																	class="glyphicon glyphicon-calendar"></span> </span>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</form>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Bootstrap core JavaScript
+    ================================================== -->
+	<!-- Placed at the end of the document so the pages load faster -->
+
+	<script src="../js/jquery.min.js"></script>
+	<script src="../js/bootstrap.min.js"></script>
+	<script src="../js/docs.min.js"></script>
+	<script src="../js/emp_info.js"></script>
+	<script src="../js/moment.js"></script>
+	<script src="../js/bootstrapValidator.min.js"></script>
+	<script src="../js/bootstrap-datetimepicker.js">
+		
+	</script>
+</body>
+</html>
