@@ -3,9 +3,11 @@ package com.edison.payroll.server.service;
 import static com.edison.payroll.server.service.OfyService.ofy;
 
 import com.edison.payroll.data.AbstractDatastore;
+import com.edison.payroll.data.Cache;
 import com.edison.payroll.data.Constants;
 import com.edison.payroll.data.EmployeeData;
 import com.edison.payroll.data.LoginData;
+import com.edison.payroll.server.RetriveEmpServlet;
 
 public class StoreFactory implements Constants {
 	private static StoreFactory instance;
@@ -30,6 +32,8 @@ public class StoreFactory implements Constants {
 			ofy().save().entity(obj).now();
 		} else if (dataStore instanceof EmployeeData) {
 			EmployeeData obj = (EmployeeData) dataStore;
+			// clear the cache whenever we are adding a data
+			Cache.clearEmpCache();
 			ofy().save().entity(obj).now();
 		}
 		return "Succces";

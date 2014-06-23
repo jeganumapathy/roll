@@ -2,6 +2,8 @@ package com.edison.payroll.server;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Iterator;
 import java.util.logging.Logger;
 
@@ -20,16 +22,21 @@ import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
+import com.edison.payroll.client.HashConverter;
+import com.edison.payroll.data.EmployeeData;
 import com.edison.payroll.data.TemplateText;
+import com.edison.payroll.server.service.StoreFactory;
 
 public class FileUpload extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	private static final Logger log = Logger.getLogger(FileUpload.class
 			.getName());
 	private TemplateText template;
+	private HashConverter converter;
 
 	public FileUpload() {
 		template = new TemplateText();
+		converter = new HashConverter();
 	}
 
 	@Override
@@ -54,9 +61,10 @@ public class FileUpload extends HttpServlet {
 										template.getTemplate(this,
 												"<h1>Completed</h1>"));
 					} else {
-						res.getWriter().println(
-								template.getTemplate(this,
-										"<h1>Please upload a file</h1>"));
+						res.getWriter()
+								.println(
+										template.getTemplate(this,
+												"<h1>Please select a file to upload</h1>"));
 					}
 				}
 			}
@@ -72,52 +80,72 @@ public class FileUpload extends HttpServlet {
 		try {
 			// Create a workbook using the File System
 			XSSFWorkbook myWorkBook = new XSSFWorkbook(file);
-
 			// Get the first sheet from workbook
 			XSSFSheet mySheet = myWorkBook.getSheetAt(0);
-
 			/** We now need something to iterate through the cells. **/
 			Iterator<Row> rowIter = mySheet.rowIterator();
 			while (rowIter.hasNext()) {
 				XSSFRow myRow = (XSSFRow) rowIter.next();
 				Iterator<Cell> cellIter = myRow.cellIterator();
+				temp = new HashMap<Integer, String>();
 				while (cellIter.hasNext()) {
-
 					XSSFCell myCell = (XSSFCell) cellIter.next();
+					parseData(myCell);
 					// get cell index
-					System.out.println("Cell column index: "
-							+ myCell.getColumnIndex());
-					// get cell type
-					System.out.println("Cell Type: " + myCell.getCellType());
-
-					// get cell value
-					switch (myCell.getCellType()) {
-					case XSSFCell.CELL_TYPE_NUMERIC:
-						System.out.println("Cell Value: "
-								+ myCell.getNumericCellValue());
-						break;
-					case XSSFCell.CELL_TYPE_STRING:
-						System.out.println("Cell Value: "
-								+ myCell.getStringCellValue());
-						break;
-					default:
-						System.out.println("Cell Value: "
-								+ myCell.getRawValue());
-						break;
-					}
-					System.out.println("---");
-
-					if (myCell.getColumnIndex() == 0) {
-						count++;
-					}
 				}
-
+				list.add(temp);
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		System.out.println(count);
+		printAllValue();
 		return count;
-
 	}
+
+	public void parseData(XSSFCell cell) {
+		int index = cell.getColumnIndex();
+		String value = getValue(cell);
+		if (firstIndex && index == 0 && firstIndexCount != 0) {
+			firstIndex = false;
+		}
+		if (firstIndex) {
+			coloum.put(index, value);
+			firstIndexCount++;
+		} else {
+			temp.put(index, value);
+		}
+	}
+
+	public void printAllValue() {
+		converter.setHeaderHash(coloum);
+		converter.iterate();
+		for (HashMap<Integer, String> temp : list) {
+			EmployeeData data = converter.convertHash(temp);
+			StoreFactory.store(data);
+		}
+	}
+
+	public boolean firstIndex = true;
+	public int firstIndexCount = 0;
+
+	public String getValue(XSSFCell cell) {
+		String value = new String();
+		switch (cell.getCellType()) {
+		case XSSFCell.CELL_TYPE_NUMERIC:
+			double doubleValue = cell.getNumericCellValue();
+			value = String.valueOf(doubleValue);
+			break;
+		case XSSFCell.CELL_TYPE_STRING:
+			value = cell.getStringCellValue();
+			break;
+		default:
+			value = cell.getRawValue();
+			break;
+		}
+		return value;
+	}
+
+	HashMap<Integer, String> coloum = new HashMap<Integer, String>();
+	HashMap<Integer, String> temp = new HashMap<Integer, String>();
+	ArrayList<HashMap<Integer, String>> list = new ArrayList<HashMap<Integer, String>>();
 }

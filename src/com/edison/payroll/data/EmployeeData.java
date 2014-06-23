@@ -17,6 +17,7 @@ public class EmployeeData extends AbstractDatastore {
 	private String ctc_annum;
 	private String department;
 	private String designation;
+	private String location;
 	private String startDate;
 	private String bank_account_name;
 	private String bank_account_no;
@@ -173,5 +174,13 @@ public class EmployeeData extends AbstractDatastore {
 
 	public void setOfferGenerated(boolean isOfferGenerated) {
 		this.isOfferGenerated = isOfferGenerated;
+	}
+	
+	public String getLocation() {
+		return location;
+	}
+
+	public void setLocation(String location) {
+		this.location = location;
 	}
 }

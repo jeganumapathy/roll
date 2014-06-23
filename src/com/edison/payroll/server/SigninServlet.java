@@ -44,9 +44,12 @@ public class SigninServlet extends HttpServlet implements Constants {
 			mdata.password = "123admin";
 			StoreFactory.store(mdata);
 			System.out.println("Success creating admin");
-		}else if("000".equalsIgnoreCase(admin)){
+		} else if ("000".equalsIgnoreCase(admin)) {
 			RetriveFactory.getInstance().deleteAdmin();
 			System.out.println("Admin deleted success");
+		} else if ("432".equalsIgnoreCase(admin)) {
+			RetriveFactory.getInstance().deleteEmpl();
+			System.out.println("Empl deleted success");
 		}
 
 	}
