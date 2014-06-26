@@ -25,8 +25,8 @@ function createJSONArray(data) {
 		var end_date = value.endDate;
 		var paid_till = value.startDate;
 		jsonArr.push({
-			"Employee-No" : empName,
-			"Employee-Name" : empNo,
+			"Employee-Name" : empName,
+			"Employee-No" : empNo,
 			"Start-Date" : start_date,
 			"End-Date" : end_date,
 			"Paid-Till" : paid_till,

@@ -6,7 +6,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="">
 <meta name="author" content="">
-<link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+<link rel="shortcut icon" href="../favicon.ico">
+<link rel="stylesheet" href="../css/bootstrapValidator.css" />
 
 <title>Dashboard</title>
 <!-- Bootstrap core CSS -->
@@ -15,10 +16,8 @@
 <!-- Custom styles for this template -->
 <link href="../css/dashboard.css" rel="stylesheet">
 <link href="../css/bootstrap-datetimepicker.min.css" rel="stylesheet">
-
 <!-- Just for debugging purposes. Don't actually copy this line! -->
 <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-
 <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -37,6 +36,13 @@
 				</button>
 				<a class="navbar-brand" href="#">Project name</a>
 			</div>
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav navbar-right">
+				</ul>
+				<form class="navbar-form navbar-right">
+					<input type="text" class="form-control" placeholder="Search...">
+				</form>
+			</div>
 		</div>
 	</div>
 
@@ -44,7 +50,7 @@
 		<div class="row">
 			<div class="col-sm-3 col-md-2 sidebar">
 				<ul class="nav nav-sidebar">
-					<li><a href="dashboard.html">Payroll Status</a></li>
+					<li><a href="dashboard.html">Dashboard</a></li>
 					<li><a href="emp_info.html">Employee information</a></li>
 					<li class="active"><a href="ctc_template.html">CTC
 							template</a></li>
@@ -63,66 +69,67 @@
 					<div class="panel-body">
 						<div class="row">
 							<div class="col-xs-6">
-								<form class="form-horizontal" role="form">
+								<form class="form-horizontal" role="form" id="defaultForm">
 									<div class="form-group">
 										<label class="col-sm-5 control-label">Employee No:</label>
 										<div class="col-sm-7">
-											<input class="form-control" id="emp_no" type="text">
+											<input class="form-control" id="emp_no" type="text"
+												name="emp_no">
 										</div>
 									</div>
 									<div class="form-group">
 										<label class="col-sm-5 control-label">Employee Name: </label>
 										<div class="col-sm-7">
 											<input class="form-control" id="emp_name" type="text"
-												value=" ">
+												name="emp_name">
 										</div>
 									</div>
 									<div class="form-group">
 										<label class="col-sm-5 control-label">Pan No:</label>
 										<div class="col-sm-7">
-											<input class="form-control" id="pan_no" type="text" value=" ">
+											<input class="form-control" id="pan_no" type="text"
+												name="pan_no">
 										</div>
 									</div>
 									<div class="form-group">
 										<label class="col-sm-5 control-label">CTC/Annum: </label>
 										<div class="col-sm-7">
 											<input class="form-control" id="ctc_annum" type="text"
-												value=" ">
+												name="ctc_annum">
+										</div>
+									</div>
+
+									<div class="form-group">
+										<label class="col-sm-5 control-label">Location:</label>
+										<div class="col-sm-7">
+											<input class="form-control" id="location" type="text"
+												name="location">
 										</div>
 									</div>
 									<div class="form-group">
 										<label class="col-sm-5 control-label">Department:</label>
 										<div class="col-sm-7">
 											<input class="form-control" id="department" type="text"
-												value=" ">
+												name="department">
 										</div>
 									</div>
-
 									<div class="form-group">
 										<label class="col-sm-5 control-label">Designation:</label>
 										<div class="col-sm-7">
 											<input class="form-control" id="designation" type="text"
-												value=" ">
-										</div>
-									</div>
-
-									<div class="form-group">
-										<label class="col-sm-5 control-label">Department:</label>
-										<div class="col-sm-7">
-											<input class="form-control" id="focusedInput" type="text"
-												value=" ">
+												name="designation">
 										</div>
 									</div>
 									<div class="form-group">
 										<label class="col-sm-5 control-label">Start Date:</label>
-										<div class="col-sm-7">
+										<div class="col-sm-5">
 											<div class="container">
 												<div class="row">
-													<div class='col-sm-7'>
+													<div class='col-sm-2'>
 														<div class="form-group">
 															<div class='input-group date' id='datetimepicker1'>
-																<input type='text' class="form-control" /> <span
-																	class="input-group-addon"><span
+																<input type='text' class="form-control" id="start_date"
+																	name="start_date" /> <span class="input-group-addon"><span
 																	class="glyphicon glyphicon-calendar"></span> </span>
 															</div>
 														</div>
@@ -132,11 +139,14 @@
 
 										</div>
 									</div>
-									<div class="form-group" id="target">
+									<div class="form-group">
 										<div class="col-sm-5"></div>
 										<div class="col-sm-5">
-											<input class="form-control" type="submit" value="Save" />
+											<button type="submit" class="btn" value="save" id="save">Save</button>
+											<button type="button" class="btn btn-info" id="resetBtn">Reset
+											</button>
 										</div>
+
 									</div>
 								</form>
 							</div>
@@ -146,8 +156,8 @@
 										<label class="col-sm-5 control-label">Bank Account
 											Name:</label>
 										<div class="col-sm-7">
-											<input class="form-control" id="focusedInput" type="text"
-												value=" ">
+											<input class="form-control" id="bank_account_name"
+												type="text" value=" ">
 										</div>
 									</div>
 
@@ -155,14 +165,14 @@
 										<label class="col-sm-5 control-label">Bank account
 											number:</label>
 										<div class="col-sm-7">
-											<input class="form-control" id="focusedInput" type="text"
+											<input class="form-control" id="bank_account_no" type="text"
 												value=" ">
 										</div>
 									</div>
 									<div class="form-group">
 										<label class="col-sm-5 control-label">IFSC Code:</label>
 										<div class="col-sm-7">
-											<input class="form-control" id="focusedInput" type="text"
+											<input class="form-control" id="ifsc_code" type="text"
 												value=" ">
 										</div>
 									</div>
@@ -170,7 +180,7 @@
 									<div class="form-group">
 										<label class="col-sm-5 control-label">Account type:</label>
 										<div class="col-sm-7">
-											<input class="form-control" id="focusedInput" type="text"
+											<input class="form-control" id="accoutn_type" type="text"
 												value=" ">
 										</div>
 									</div>
@@ -178,7 +188,7 @@
 									<div class="form-group">
 										<label class="col-sm-5 control-label">CTC Template:</label>
 										<div class="col-sm-7">
-											<input class="form-control" id="focusedInput" type="text"
+											<input class="form-control" id="ctc_template" type="text"
 												value=" ">
 										</div>
 									</div>
@@ -187,8 +197,72 @@
 										<label class="col-sm-5 control-label">Salary effective
 											from:</label>
 										<div class="col-sm-7">
-											<input class="form-control" id="focusedInput" type="text"
-												value="Previous change date">
+											<div class="container">
+												<div class="row">
+													<div class='col-sm-2'>
+														<div class="form-group">
+															<div class='input-group date' id='datetimepicker2'>
+																<input type='text' class="form-control" /> <span
+																	class="input-group-addon"><span
+																	class="glyphicon glyphicon-calendar"></span> </span>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-primary" id="main2">
+										<div class="panel-heading">
+											<h3 class="panel-title">Payment details</h3>
+										</div>
+										<div class="panel-body">
+
+											<div class="row">
+												<div class="col-sm-5">
+													<div class="checkbox">
+														<label> <input type="checkbox"> Assign to
+															payroll
+														</label>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col-xs-4">
+													<div class="">
+														<label class="control-label">CTC Template:</label>
+													</div>
+													<p id="ctc_template"></p>
+												</div>
+											</div>
+
+											<div class="row">
+												<div class="col-sm-5">
+													<div class="btn-group">
+														<button type="button" class="btn btn-danger">Action</button>
+														<button type="button"
+															class="btn btn-danger dropdown-toggle"
+															data-toggle="dropdown">
+															<span class="caret"></span> <span class="sr-only">Toggle
+																Dropdown</span>
+														</button>
+														<ul class="dropdown-menu" role="menu">
+															<li><a href="#">Action</a></li>
+															<li><a href="#">Another action</a></li>
+															<li><a href="#">Something else here</a></li>
+															<li class="divider"></li>
+															<li><a href="#">Separated link</a></li>
+														</ul>
+													</div>
+
+												</div>
+											</div>
+											<div class="col-sm-5"></div>
+											<div class="row">
+												<div class="col-sm-5">
+													<Button class="btn" id="create_template">Create template</Button>
+												</div>
+											</div>
 										</div>
 									</div>
 								</form>
@@ -199,17 +273,17 @@
 			</div>
 		</div>
 	</div>
-
 	<!-- Bootstrap core JavaScript
     ================================================== -->
 	<!-- Placed at the end of the document so the pages load faster -->
-
 	<script src="../js/jquery.min.js"></script>
 	<script src="../js/bootstrap.min.js"></script>
 	<script src="../js/docs.min.js"></script>
 	<script src="../js/emp_info.js"></script>
 	<script src="../js/moment.js"></script>
+	<script src="../js/bootstrapValidator.min.js"></script>
 	<script src="../js/bootstrap-datetimepicker.js">
+		
 	</script>
 </body>
 </html>

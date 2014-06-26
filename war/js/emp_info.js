@@ -1,38 +1,6 @@
-$(document).ready(postData());
-
-function postData() {
-	$("#target").click(
-			function(e) {
-				e.preventDefault();
-				var emp_name = $('#emp_name').val();
-				var emp_no = $('#emp_no').val();
-				var pan_no = $('#pan_no').val();
-				var ctc_annum = $('#ctc_annum').val();
-				var department = $('#department').val();
-				var designation = $('#designation').val();
-				var start_date = $('#start_date').val();
-				var all_required = false;
-				if (start_date == null && pan_no == null && emp_name == null
-						&& emp_no == null) {
-				} else {
-				}
-				// check for validation
-				$.post("/app/store", {
-					emp_name : emp_name,
-					emp_no : emp_no,
-					pan_no : pan_no,
-					ctc_annum : ctc_annum,
-					department : department,
-					designation : designation,
-					start_date : start_date
-				}, function(data, status) {
-					showAlert(data, status);
-				});
-				return false;
-			});
-}
 function showAlert(data, status) {
 	$("#main").hide();
+	$("#main2").hide();
 	alert(status);
 	$("#result").html("<p>" + status + "</p>");
 }
@@ -46,7 +14,12 @@ $(function() {
 	$('#datetimepicker2').datetimepicker({
 		pickTime : false
 	});
+});
 
+$(function() {
+	$('#create_template').click(function() {
+		alert("page under construction");
+	});
 });
 
 $(function() {
@@ -123,4 +96,39 @@ $(function() {
 							}
 						}
 					});
+
+	$('#save').click(function() {
+		$('#defaultForm').bootstrapValidator('validate');
+		// var emp_name = $('#emp_name').val();
+		// var emp_no = $('#emp_no').val();
+		// var pan_no = $('#pan_no').val();
+		// var ctc_annum = $('#ctc_annum').val();
+		// var department = $('#department').val();
+		// var designation = $('#designation').val();
+		// var start_date = $('#start_date').val();
+		// var all_required = false;
+		// if (start_date == null && pan_no == null && emp_name == null
+		// && emp_no == null) {
+		// console.log("all variable are null");
+		// } else {
+		// }
+		// // check for validation
+		// $.post("/app/store", {
+		// emp_name : emp_name,
+		// emp_no : emp_no,
+		// pan_no : pan_no,
+		// ctc_annum : ctc_annum,
+		// department : department,
+		// designation : designation,
+		// start_date : start_date
+		// }, function(data, status) {
+		// showAlert(data, status);
+		// });
+		// return false;
+
+	});
+	$('#resetBtn').click(function() {
+		$('#defaultForm').data('bootstrapValidator').resetForm(true);
+	});
+
 });

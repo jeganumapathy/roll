@@ -8,10 +8,10 @@
 <meta name="author" content="">
 <link rel="shortcut icon" href="../favicon.ico">
 <link rel="stylesheet" href="../css/bootstrapValidator.css" />
+<link rel="stylesheet" href="../css/font-awesome.min.css">
 
 <title>Dashboard</title>
 <!-- Bootstrap core CSS -->
-<!--  -->
 <link href="../css/bootstrap.min.css" rel="stylesheet">
 <!-- Custom styles for this template -->
 <link href="../css/dashboard.css" rel="stylesheet">
@@ -19,7 +19,6 @@
 
 <!-- Just for debugging purposes. Don't actually copy this line! -->
 <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-
 <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -42,7 +41,8 @@
 				<ul class="nav navbar-nav navbar-right">
 				</ul>
 				<form class="navbar-form navbar-right">
-					<input type="text" class="form-control" placeholder="Search...">
+					<input type="text" class="form-control" placeholder="Search..."
+						id="search">
 				</form>
 			</div>
 		</div>
@@ -63,146 +63,136 @@
 				</ul>
 			</div>
 			<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
-				<div id="result"></div>
 				<div class="panel panel-primary" id="main">
 					<div class="panel-heading">
-						<h3 class="panel-title">Info</h3>
+						<h3 class="panel-title">Employee info</h3>
 					</div>
 					<div class="panel-body">
 						<div class="row">
-							<div class="col-xs-6">
-								<form class="form-horizontal" role="form" id="defaultForm">
-									<div class="form-group">
-										<label class="col-sm-5 control-label">Employee No:</label>
-										<div class="col-sm-7">
-											<input class="form-control" id="emp_no" type="text" name="emp_no">
-										</div>
-									</div>
-									<div class="form-group">
-										<label class="col-sm-5 control-label">Employee Name: </label>
-										<div class="col-sm-7">
-											<input class="form-control" id="emp_name" type="text"
-												name="emp_name">
-										</div>
-									</div>
-									<div class="form-group">
-										<label class="col-sm-5 control-label">Pan No:</label>
-										<div class="col-sm-7">
-											<input class="form-control" id="pan_no" type="text" name="pan_no">
-										</div>
-									</div>
-									<div class="form-group">
-										<label class="col-sm-5 control-label">CTC/Annum: </label>
-										<div class="col-sm-7">
-											<input class="form-control" id="ctc_annum" type="text"
-												name="ctc_annum">
-										</div>
-									</div>
-									<div class="form-group">
-										<label class="col-sm-5 control-label">Department:</label>
-										<div class="col-sm-7">
-											<input class="form-control" id="department" type="text"
-												name="department">
-										</div>
-									</div>
-
-									<div class="form-group">
-										<label class="col-sm-5 control-label">Designation:</label>
-										<div class="col-sm-7">
-											<input class="form-control" id="designation" type="text"
-												name="designation">
-										</div>
-									</div>
-									<div class="form-group">
-										<label class="col-sm-5 control-label">Start Date:</label>
-										<div class="col-sm-5">
-											<div class="container">
-												<div class="row">
-													<div class='col-sm-2'>
-														<div class="form-group">
-															<div class='input-group date' id='datetimepicker1'>
-																<input type='text' class="form-control" id="start_date" name="start_date"/>
-																<span class="input-group-addon"><span
-																	class="glyphicon glyphicon-calendar"></span> </span>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-
-										</div>
-									</div>
-									<div class="form-group" id="target">
-										<div class="col-sm-5"></div>
-										<div class="col-sm-5">
-											<input class="form-control" type="submit" value="Save" />
-										</div>
-									</div>
-								</form>
+							<div class="col-xs-4">
+								<label class="control-label">Employee No:</label>
 							</div>
-							<div class="col-xs-6">
-								<form class="form-horizontal" role="form">
-									<div class="form-group">
-										<label class="col-sm-5 control-label">Bank Account
-											Name:</label>
-										<div class="col-sm-7">
-											<input class="form-control" id="bank_account_name" type="text"
-												value=" ">
-										</div>
-									</div>
+							<p id="emp_no"></p>
+						</div>
+						<div class="row">
+							<div class="col-xs-4">
+								<label class="control-label">Employee Name:</label>
+							</div>
+							<p id="emp_name"></p>
+						</div>
+						<div class="row">
+							<div class="col-xs-4">
+								<label class="control-label">Pan No:</label>
+							</div>
+							<p id="pan_no"></p>
+						</div>
 
-									<div class="form-group">
-										<label class="col-sm-5 control-label">Bank account
-											number:</label>
-										<div class="col-sm-7">
-											<input class="form-control" id="bank_account_no" type="text"
-												value=" ">
-										</div>
-									</div>
-									<div class="form-group">
-										<label class="col-sm-5 control-label">IFSC Code:</label>
-										<div class="col-sm-7">
-											<input class="form-control" id="ifsc_code" type="text"
-												value=" ">
-										</div>
-									</div>
+						<div class="row">
+							<div class="col-xs-4">
+								<label class="control-label">CTC/Annum:</label>
+							</div>
+							<p id="ctc_annum"></p>
+						</div>
+						<div class="row">
+							<div class="col-xs-4">
+								<label class="control-label">Department:</label>
+							</div>
+							<p id="department"></p>
+						</div>
+						<div class="row">
+							<div class="col-xs-4">
+								<label class="control-label">Designation:</label>
+							</div>
+							<p id="designation"></p>
+						</div>
+						<div class="row">
+							<div class="col-xs-4">
+								<label class="control-label">Start Date:</label>
+							</div>
+							<p id="start_date"></p>
+						</div>
+						<div class="row">
+							<div class="col-xs-4">
+								<label class="control-label">Location:</label>
+							</div>
+							<p id="location"></p>
+						</div>
+					</div>
+				</div>
 
-									<div class="form-group">
-										<label class="col-sm-5 control-label">Account type:</label>
-										<div class="col-sm-7">
-											<input class="form-control" id="accoutn_type" type="text"
-												value=" ">
-										</div>
-									</div>
+				<div class="panel panel-primary" id="main">
+					<div class="panel-heading">
+						<h3 class="panel-title">Bank details</h3>
+					</div>
+					<div class="panel-body">
+						<div class="row">
+							<div class="col-xs-4">
+								<label class="control-label">Bank Account Name:</label>
+							</div>
+							<p id="bank_name"></p>
+						</div>
+						<div class="row">
+							<div class="col-xs-4">
+								<label class="control-label">Bank Account No:</label>
+							</div>
+							<p id="bank_no"></p>
+						</div>
+						<div class="row">
+							<div class="col-xs-4">
+								<label class="control-label">IFSC code:</label>
+							</div>
+							<p id="ifsc_no"></p>
+						</div>
 
-									<div class="form-group">
-										<label class="col-sm-5 control-label">CTC Template:</label>
-										<div class="col-sm-7">
-											<input class="form-control" id="ctc_template" type="text"
-												value=" ">
-										</div>
-									</div>
+						<div class="row">
+							<div class="col-xs-4">
+								<label class="control-label">Account type:</label>
+							</div>
+							<p id="account_type"></p>
+						</div>
+					</div>
+				</div>
 
-									<div class="form-group">
-										<label class="col-sm-5 control-label">Salary effective
-											from:</label>
-										<div class="col-sm-7">
-											<div class="container">
-												<div class="row">
-													<div class='col-sm-2'>
-														<div class="form-group">
-															<div class='input-group date' id='datetimepicker2'>
-																<input type='text' class="form-control" /> <span
-																	class="input-group-addon"><span
-																	class="glyphicon glyphicon-calendar"></span> </span>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</form>
+				<div class="panel panel-primary" id="main2">
+					<div class="panel-heading">
+						<h3 class="panel-title">Payment details</h3>
+					</div>
+					<div class="panel-body">
+
+						<div class="row">
+							<div class="col-xs-4">
+								<div class="radio">
+									<label> <input type="radio" name="optionsRadios">
+										Assign to payroll
+									</label>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-xs-4">
+								<div class="radio">
+									<label> <input type="radio" name="optionsRadios">
+										Terminated
+									</label>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-xs-4">
+								<div class="">
+									<label class="control-label">CTC Template:</label>
+								</div>
+								<p id="ctc_template"></p>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-xs-4">
+								<div class="">
+									<label class="control-label">Salary component effective
+										from:</label>
+								</div>
+								<p id="ctc_template"></p>
 							</div>
 						</div>
 					</div>
@@ -218,7 +208,7 @@
 	<script src="../js/jquery.min.js"></script>
 	<script src="../js/bootstrap.min.js"></script>
 	<script src="../js/docs.min.js"></script>
-	<script src="../js/emp_info.js"></script>
+	<script src="../js/all_info.js"></script>
 	<script src="../js/moment.js"></script>
 	<script src="../js/bootstrapValidator.min.js"></script>
 	<script src="../js/bootstrap-datetimepicker.js">
