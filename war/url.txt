@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="feedsInfo_af_rZA">
+        <item>MailGuardian</item>
+        <item>Mail &amp;amp; Guardian</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=MailGuardianZA</item>
+        <item>The New Age</item>
+        <item>The New Age</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=TheNewAgeZA</item>
+        <item>CityPress</item>
+        <item>CityPress</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=CityPressZA</item>
+        <item>BD Live</item>
+        <item>Business Day</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=BusinessDayZA</item>
+        <item>TimesLive</item>
+        <item>Sunday Times Live</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=TheTimesZA</item>
+        <item>Sondag</item>
+        <item>Sondag</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=SondagZA</item>
+        <item>The Sowetan</item>
+        <item>The Sowetan</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=TheSowetanZA</item>
+        <item>IOL</item>
+        <item>Independent Online</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=IOLZA</item>
+        <item>Daily Maverick</item>
+        <item>Daily Maverick</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=DailyMaverickZA</item>
+        <item>The Con</item>
+        <item>The Con</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=TheConZA</item>
+        <item>SA Good News</item>
+        <item>South Africa Good News</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=SAGoodNewsZA</item>
+        <item>Google News</item>
+        <item>Google News SouthAfrica</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=GoogleNewsZA</item>
+        <item>Yahoo! News</item>
+        <item>Yahoo! News SouthAfrica</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=YahooNewsZA</item>
+        <item>Rapport</item>
+        <item>Rapport</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=RapportZA</item>
+    </string-array>
+    <string-array name="feedsInfo_de_rAT">
+        <item>Krone</item>
+        <item>Krone</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.krone.at/Nachrichten/rss.html</item>
+        <item>Heute</item>
+        <item>Heute</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.heute.at/storage/rss/rss/heute.xml</item>
+        <item>Kleine</item>
+        <item>Kleine Zeitung</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//rssfeeds.kleinezeitung.at/c/467093/f/467092/index.rss</item>
+        <item>Oe24</item>
+        <item>Österreich</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.oe24.at/xml/rssImage</item>
+        <item>Kurier</item>
+        <item>Kurier</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//kurier.at/xml/feed</item>
+        <item>OÖ Nachrichten</item>
+        <item>Oberösterreichische Nachrichten</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.nachrichten.at/storage/rss/rss/nachrichten.xml</item>
+        <item>DiePresse</item>
+        <item>Die Presse</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//diepresse.com/rss//home</item>
+        <item>derStandard</item>
+        <item>Der Standard</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//derstandard.at/%2$3Fpage%3$3Drss%4$26ressort%5$3DdieStandard</item>
+        <item>TT</item>
+        <item>Tiroler Tageszeitung</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.tt.com/tt/rss/tt.xml</item>
+        <item>Salzburger Nachrichten</item>
+        <item>Salzburger Nachrichten</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.salzburg.com/nachrichten/rss.xml</item>
+        <item>Wiener Zeitung</item>
+        <item>Wiener Zeitung</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.wienerzeitung.at/_export/rss/nachrichten/schlagzeilen/index.rss</item>
+        <item>Austrian Times</item>
+        <item>Austrian Times</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.austriantimes.at/RSS-Feed/onobase/generatedRssXMLs/news.xml</item>
+        <item>WirtschaftsBlatt</item>
+        <item>WirtschaftsBlatt</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//wirtschaftsblatt.at/rss/home</item>
+        <item>Google News</item>
+        <item>Google News</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=GoogleNewsAT</item>
+        <item>Yahoo! News</item>
+        <item>Yahoo! News</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=YahooNewsAT</item>
+    </string-array>
+    <string-array name="feedsInfo_de_rCH">
+        <item>NZZ</item>
+        <item>Neue Zürcher Zeitung</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=NZZCH</item>
+        <item>20 Minuten</item>
+        <item>20 Minuten</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=20MinutenCH</item>
+        <item>Blick</item>
+        <item>Blick</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=BlickCH</item>
+        <item>Tages Anzeiger</item>
+        <item>Tages Anzeiger</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=TagesAnzeigerCH</item>
+        <item>Aargauer Zeitung</item>
+        <item>Aargauer Zeitung</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=AargauerZeitungCH</item>
+        <item>BaZ</item>
+        <item>Basler Zeitung</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=BaslerZeitungCH</item>
+        <item>BZ</item>
+        <item>Berner Zeitung</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=BernerZeitungCH</item>
+        <item>St.Galler Tagblatt</item>
+        <item>St. Galler Tagblatt</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=TagblattCH</item>
+        <item>TagesWoche</item>
+        <item>TagesWoche</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=TagesWocheCH</item>
+        <item>20 Minutes</item>
+        <item>20 Minutes</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=20MinutesFRCH</item>
+        <item>24 Heures</item>
+        <item>24 Heures</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=24HeuresFRCH</item>
+        <item>Le Matin</item>
+        <item>Le Matin</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=LeMatinFRCH</item>
+        <item>CdT</item>
+        <item>Corriere del Ticino</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=CorrieredelTicinoCH</item>
+        <item>GdP</item>
+        <item>Giornale del Popolo</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=GiornaledelPopoloCH</item>
+        <item>TicinOnline</item>
+        <item>TicinOnline</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=TicinOnlineCH</item>
+    </string-array>
+    <string-array name="feedsInfo_de">
+        <item>FAZ</item>
+        <item>Frankfurter Allgemeine Zeitung</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.faz.net/aktuell/%2$3Frssview%3$3D1&amp;amp;d=y</item>
+        <item>Spiegel</item>
+        <item>Spiegel Online</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.spiegel.de/schlagzeilen/tops/index.rss</item>
+        <item>Handelsblatt</item>
+        <item>Handelsblatt</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.handelsblatt.com/contentexport/feed/wirtschaft</item>
+        <item>Süddeutsche</item>
+        <item>Süddeutsche</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//rssfeed.sueddeutsche.de/c/795/f/447925/index.rss</item>
+        <item>Zeit</item>
+        <item>Zeit</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//newsfeed.zeit.de/index&amp;amp;d=y</item>
+        <item>Bild</item>
+        <item>Bild</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//rss.bild.de/bild.xml</item>
+        <item>Welt</item>
+        <item>Die Welt</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.welt.de/%2$3Fservice%3$3DRss</item>
+        <item>FR</item>
+        <item>Frankfurter Rundschau</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//rss.feedsportal.com/c/429/f/646647/index.rss</item>
+        <item>Tagesspiegel</item>
+        <item>Der Tagesspiegel</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//tagesspiegel.feedsportal.com/c/33356/f/566373/index.rss</item>
+        <item>BZ</item>
+        <item>BZ-Berlin</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//bz-berlin.feedsportal.com/c/32933/fe.ed/www.bz-berlin.de/plainrss</item>
+        <item>TAZ</item>
+        <item>Tageszeitung</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=Tageszeitung</item>
+        <item>DW</item>
+        <item>Deutsche Welle</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//rss.dw-world.de/rdf/rss-de-news</item>
+        <item>ND</item>
+        <item>Neues Deutschland</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=NeuesDeutschland</item>
+        <item>Der Spiegel</item>
+        <item>Der Spiegel</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=DerSpiegel</item>
+        <item>Der Stern</item>
+        <item>Der Stern</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=DerStern</item>
+        <item>Focus</item>
+        <item>Focus</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=FocusDE</item>
+        <item>RP-Online</item>
+        <item>Rheinische Post</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=RheinischePost</item>
+        <item>Augsburger Allgemeine</item>
+        <item>Augsburger Allgemeine</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=AugsburgerAllgemeine</item>
+        <item>Berliner</item>
+        <item>Berliner Zeitung</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=Berliner</item>
+        <item>Braunschweiger</item>
+        <item>Braunschweiger Zeitung</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=Braunschweiger</item>
+        <item>Morgenpost</item>
+        <item>Morgenpost</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.morgenpost.de/%2$3Fservice%3$3DRss</item>
+    </string-array>
+    <string-array name="feedsInfo_en_rAU">
+        <item>ABC</item>
+        <item>Australian Broadcasting Corporation</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.abc.net.au/news/feed/51120/rss.xml</item>
+        <item>Herald Sun</item>
+        <item>Herald Sun</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.news.com.au/heraldsun/rss/heraldsun_news_topstories_2803.xml</item>
+        <item>Daily Telegraph</item>
+        <item>The Daily Telegraph</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//feeds.feedburner.com/dailytelegraphtopstoriesndm%2$3Fformat%3$3Dxml</item>
+        <item>Courier-Mail</item>
+        <item>The Courier-Mail</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.news.com.au/public/rss/2.0/bcm_breaking_news_67.xml</item>
+        <item>SMH</item>
+        <item>The Sydney Morning Herald</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//rss.feedsportal.com/c/34697/fe.ed/feeds.smh.com.au/rssheadlines/top.xml</item>
+        <item>The West</item>
+        <item>The West Australian</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//d.yimg.com/au.rss.news.yahoo.com/thewest/breaking.xml</item>
+        <item>The Age</item>
+        <item>The Age</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//rss.feedsportal.com/c/34696/fe.ed/feeds.theage.com.au/rssheadlines/top.xml</item>
+        <item>The Advertiser</item>
+        <item>The Advertiser (Adelaide)</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.news.com.au/public/rss/2.0/anow_topstories_250.xml</item>
+        <item>The Australian</item>
+        <item>The Australian</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//feeds.feedburner.com/TheAustralianNewsNDM%2$3Fformat%3$3Dxml</item>
+        <item>Perth Now</item>
+        <item>Perth Now</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.feedburner.com/PerthnowTopStories</item>
+        <item>SBS</item>
+        <item>SBS World News</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//sbs.feedsportal.com/c/34692/f/637303/index.rss</item>
+        <item>The Conversation</item>
+        <item>The Conversation</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=TheConversationAU</item>
+    </string-array>
+    <string-array name="feedsInfo_en_rCA">
+        <item>Toronto Star</item>
+        <item>Toronto Star</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.thestar.com/feeds.articles.news.rss</item>
+        <item>Globe and Mail</item>
+        <item>The Globe and Mail</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.theglobeandmail.com/%2$3Fservice%3$3Drss</item>
+        <item>Journal de Montréal</item>
+        <item>Le Journal de Montréal</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.journaldemontreal.com/accueil/rss.xml</item>
+        <item>La Presse</item>
+        <item>La Presse</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//rss.lapresse.ca/178.xml</item>
+        <item>Montreal Gazette</item>
+        <item>Montreal Gazette</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//rss.canada.com/get/%2$3FF8739</item>
+        <item>Vancouver Sun</item>
+        <item>The Vancouver Sun</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//rss.canada.com/get/%2$3FF229</item>
+        <item>Toronto Sun</item>
+        <item>The Toronto Sun</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.torontosun.com/home/rss.xml</item>
+        <item>The Province</item>
+        <item>The Province</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//rss.canada.com/get/%2$3FF228</item>
+        <item>National Post</item>
+        <item>National Post</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//feeds.feedburner.com/NP_Top_Stories%2$3Fformat%3$3Dxml</item>
+        <item>Calgary Herald</item>
+        <item>Calgary Herald</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//rss.canada.com/get/%2$3FF233</item>
+        <item>Winnipeg Free</item>
+        <item>Winnipeg Free Press</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.winnipegfreepress.com/rss/%2$3Fpath%3$3D%4$252Fbreakingnews</item>
+        <item>Ottawa Citizen</item>
+        <item>Ottawa Citizen</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//rss.canada.com/get/%2$3FF239</item>
+        <item>Edmonton Journal</item>
+        <item>Edmonton Journal</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//rss.canada.com/get/%2$3FF264</item>
+        <item>Chronicle Herald</item>
+        <item>The Chronicle Herald</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//thechronicleherald.ca/rss/articles/all</item>
+    </string-array>
+    <string-array name="feedsInfo_en_rIE">
+        <item>Irish Examiner</item>
+        <item>Irish Examiner</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//feeds.irishexaminer.com/ietopstories%2$3Fformat%3$3Dxml&amp;amp;d=y</item>
+        <item>Daily Star</item>
+        <item>Irish Daily Star</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.feedburner.com/irishdailystar</item>
+        <item>Irish Independent</item>
+        <item>Irish Independent</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.independent.ie/rss</item>
+        <item>Herald</item>
+        <item>Herald</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.herald.ie/rss</item>
+        <item>RTÉ</item>
+        <item>RTÉ News</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.rte.ie/news/rss/news.xml</item>
+        <item>Irish Central</item>
+        <item>Irish Central</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=IrishCentral</item>
+        <item>BreakingNews</item>
+        <item>BreakingNews.ie</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.breakingnews.ie/bntopstories</item>
+        <item>Google News</item>
+        <item>Google News</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//news.google.ie/news%2$3Fpz%3$3D1%4$26cf%5$3Dall%6$26ned%7$3Den_ie%8$26hl%9$3Den%10$26output%11$3Drss</item>
+    </string-array>
+    <string-array name="feedsInfo_en_rIN">
+        <item>Dainik Jagran</item>
+        <item>Dainik Jagran National</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=DainikJagranNational</item>
+        <item>Dainik Bhaskar</item>
+        <item>Dainik Bhaskar</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=DainikBhaskar</item>
+        <item>Hindustan</item>
+        <item>Live Hindustan</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=LiveHindustan</item>
+        <item>Amar Ujala</item>
+        <item>Amar Ujala</item>
+        <item>http://regione-news.nyb.netdna-cdn.com/feedapp?url=http%3A//www.amarujala.com/rss/breaking-news.xml</item>
+        <item>TOI</item>
+        <item>Times Of India</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//timesofindia.feedsportal.com/c/33039/f/533965/index.rss</item>
+        <item>Jagran Post</item>
+        <item>Jagran Post</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//post.jagran.com/rss/post/rss.xml&amp;amp;d=y</item>
+        <item>Rajasthan Patrika</item>
+        <item>Rajasthan Patrika</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=RajasthanPatrikaHomepage</item>
+        <item>Manorama</item>
+        <item>Malayala Manorama</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=ManoramaEnglish</item>
+        <item>Prabhat Khabar</item>
+        <item>Prabhat Khabar</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=PrabhatKhabar</item>
+        <item>Navbharat Times</item>
+        <item>Navbharat Times</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=NavbharatTimes</item>
+        <item>Mid-Day</item>
+        <item>Mid-Day</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.mid-day.com/feed_api/rss/articles.php%2$3Fsection%3$3Dnews&amp;amp;d=y</item>
+        <item>The Hindu</item>
+        <item>The Hindu</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.thehindu.com/%2$3Fservice%3$3Drss&amp;amp;d=y</item>
+        <item>Deccan Chronicle</item>
+        <item>Deccan Chronicle</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//www.deccanchronicle.com/rss.xml</item>
+        <item>Hindustan Times</item>
+        <item>Hindustan Times</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%1$3A//feeds.hindustantimes.com/HT-HomePage-TopStories%2$3Fformat%3$3Dxml&amp;amp;d=y</item>
+        <item>Mathrubhumi</item>
+        <item>Mathrubhumi</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%1$3A//feeds.feedburner.com/MathrubhumiEnglish%2$3Fformat%3$3Dxml&amp;amp;d=y</item>
+        <item>Deccan Herald</item>
+        <item>Deccan Herald</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//www.deccanherald.com/rss/news.rss&amp;amp;d=y</item>
+        <item>NDTV</item>
+        <item>NDTV News</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%1$3A//feeds.feedburner.com/NDTV-LatestNews%2$3Fformat%3$3Dxml&amp;amp;d=y</item>
+        <item>Dinakaran</item>
+        <item>Dinakaran</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=Dinakaran</item>
+        <item>Lokmat</item>
+        <item>Lokmat</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=LokmatINDIA</item>
+        <item>Financial Chronicle</item>
+        <item>Financial Chronicle</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//www.mydigitalfc.com/rss.xml&amp;amp;d=y</item>
+        <item>One India</item>
+        <item>One India</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//news.oneindia.in/rss/news-fb.xml&amp;amp;d=y</item>
+        <item>RediffNews</item>
+        <item>RediffNews</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//www.rediff.com/rss/newshead.xml&amp;amp;d=y</item>
+        <item>Economic Times</item>
+        <item>Economic Times</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//economictimes.feedsportal.com/c/33041/f/537910/index.rss</item>
+        <item>New Indian Express</item>
+        <item>New Indian Express</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%1$3A//newindianexpress.com/%2$3FwidgetName%3$3Drssfeed%4$26widgetId%5$3D276210%6$26getXmlFeed%7$3Dtrue</item>
+        <item>Reddit India</item>
+        <item>Reddit India /r/india</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//www.reddit.com/r/india/.json</item>
+        <item>Google News</item>
+        <item>Google News</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=GoogleNewsIndia</item>
+        <item>Yahoo! News</item>
+        <item>Yahoo! News</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=YahooNewsINDIA</item>
+        <item>\#India #News Twitter</item>
+        <item>\#India #News Twitter</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%1$3A//search.twitter.com/search.json%2$3Fq%3$3D%4$2523india%5$2520%2523news</item>
+    </string-array>
+    <string-array name="feedsInfo_en_rKE">
+        <item>Nation</item>
+        <item>Daily Nation</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=DailyNationKenya</item>
+        <item>Kenya Star</item>
+        <item>Kenya Star</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=KenyaStar</item>
+        <item>Kenya Today</item>
+        <item>Kenya Today</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=KenyaToday</item>
+        <item>The Star</item>
+        <item>The Star</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=TheStarKenya</item>
+        <item>EastAfrican</item>
+        <item>The EastAfrican</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=TheEastAfricanKenya</item>
+        <item>News24</item>
+        <item>Kenya News24</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=KenyaNews24</item>
+        <item>Business Daily</item>
+        <item>Business Daily</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=BusinessDailyKenya</item>
+        <item>Capital FM</item>
+        <item>Capital FM</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=CapitalFMKenya</item>
+        <item>The People</item>
+        <item>The People</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=ThePeopleKenya</item>
+        <item>KenyanStar</item>
+        <item>KenyanStar</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=KenyanStar</item>
+        <item>Ghafla</item>
+        <item>Ghafla</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=GhaflaKenya</item>
+        <item>Zambezian</item>
+        <item>The Zambezian</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=TheZambezianKenya</item>
+    </string-array>
+    <string-array name="feedsInfo_en_rMY">
+        <item>Borneo Post</item>
+        <item>Borneo Post</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.theborneopost.com/feed/</item>
+        <item>The Sun</item>
+        <item>The Sun Daily</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.thesundaily.my/rss/latest&amp;amp;d=y</item>
+        <item>Harian Metro</item>
+        <item>Harian Metro</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.hmetro.com.my/myMetro/rss/rss_html%2$3Fsection%3$3DBeritaUtama</item>
+        <item>NewStraitsTimes</item>
+        <item>NewStraitsTimes</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.nst.com.my/cmlink/latest-news-feed-1.3108</item>
+        <item>Free Malaysia Today</item>
+        <item>Free Malaysia Today</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=https%3A//www.freemalaysiatoday.com/feed/</item>
+        <item>HarakahDaily</item>
+        <item>Harakah Daily</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//bm.harakahdaily.net/index.php/component/ninjarsssyndicator/%2$3Ffeed_id%3$3D1%4$26format%5$3Draw</item>
+        <item>HarakahDaily En</item>
+        <item>Harakah Daily English</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=HarakahdailyEN</item>
+        <item>Oriental Daily</item>
+        <item>Oriental Daily</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//feeds.feedburner.com/orientaldaily%2$3Fformat%3$3Dxml</item>
+        <item>Google News</item>
+        <item>Google News Malaysia</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//news.google.com.my/news%2$3Fpz%3$3D1%4$26cf%5$3Dall%6$26ned%7$3Den_my%8$26hl%9$3Den%10$26output%11$3Drss</item>
+        <item>MalaysiaKini En</item>
+        <item>MalaysiaKini English</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.malaysiakini.com/en/news.rss</item>
+        <item>MalaysiaKini Ml</item>
+        <item>MalaysiaKini Malay</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.malaysiakini.com/my/news.rss</item>
+        <item>MalaysiaKini ??</item>
+        <item>MalaysiaKini ??</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.malaysiakini.com/zh/news.rss</item>
+        <item>BH</item>
+        <item>Berita Harian</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=BeritaHarian</item>
+        <item>MalaysianInsider</item>
+        <item>The Malaysian Insider</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=MalaysianInsider</item>
+    </string-array>
+    <string-array name="feedsInfo_en_rNG">
+        <item>Vanguard</item>
+        <item>Vanguard</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=VanguardNG</item>
+        <item>The Punch</item>
+        <item>The Punch</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=ThePunchNG</item>
+        <item>The Nation</item>
+        <item>The Nation</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=TheNationNG</item>
+        <item>This Day</item>
+        <item>This Day</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=ThisDayNG</item>
+        <item>The Sun</item>
+        <item>The Sun</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=TheSunNG</item>
+        <item>Leadership</item>
+        <item>Leadership</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=LeadershipNG</item>
+        <item>Daily Times</item>
+        <item>Daily Times</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=DailyTimesNG</item>
+        <item>National Mirror</item>
+        <item>National Mirror</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=NationalMirrorNG</item>
+        <item>Peoples Daily</item>
+        <item>Peoples Daily</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=PeoplesDailyNG</item>
+        <item>Independent</item>
+        <item>Daily Independent</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=DailyIndependentNG</item>
+        <item>Blueprint</item>
+        <item>Blueprint</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=BlueprintNG</item>
+        <item>PM</item>
+        <item>P. M. News</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=PMNewsNG</item>
+        <item>Business Day</item>
+        <item>Business Day</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=BusinessDayNG</item>
+        <item>Hallmark</item>
+        <item>Business Hallmark</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=HallmarkNG</item>
+    </string-array>
+    <string-array name="feedsInfo_en_rUK">
+        <item>Daily Mirror</item>
+        <item>Daily Mirror</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//www.mirror.co.uk/rss.xml</item>
+        <item>Daily Star</item>
+        <item>Daily Star</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=DailyStarUK</item>
+        <item>BBC UK</item>
+        <item>BBC UK</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.bbci.co.uk/news/rss.xml</item>
+        <item>Daily Telegraph</item>
+        <item>Daily Telegraph</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//www.telegraph.co.uk/news/rss&amp;amp;d=y</item>
+        <item>Reuters UK</item>
+        <item>Reuters UK</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//mf.feeds.reuters.com/reuters/UKTopNews&amp;amp;d=y</item>
+        <item>Daily Mail</item>
+        <item>Daily Mail</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//www.dailymail.co.uk/home/index.rss</item>
+        <item>Daily Express</item>
+        <item>Daily Express</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//uk.express.feedsportal.com/c/33338/f/565858/index.rss</item>
+        <item>Daily Record</item>
+        <item>Daily Record</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//www.dailyrecord.co.uk/news/rss.xml</item>
+        <item>The Guardian</item>
+        <item>The Guardian</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.guardian.co.uk/theguardian/rss&amp;amp;d=y</item>
+        <item>The Independent</item>
+        <item>The Independent</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//rss.feedsportal.com/c/266/f/3495/index.rss&amp;amp;d=y</item>
+        <item>The Herald</item>
+        <item>The Herald</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//www.heraldonline.com/news/index.rss&amp;amp;d=y</item>
+        <item>Sky News</item>
+        <item>Sky News</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//news.sky.com/feeds/rss/home.xml</item>
+        <item>HuffingtonPost</item>
+        <item>HuffingtonPost</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//www.huffingtonpost.com/feeds/verticals/uk/news.xml</item>
+        <item>The Conversation</item>
+        <item>The Conversation</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=TheConversationUK</item>
+        <item>UK Reddit</item>
+        <item>UK Reddit</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%3A//www.reddit.com/r/unitedkingdom/.json</item>
+        <item>\#UK #NEWS Twitter</item>
+        <item>\#UK #NEWS Twitter</item>
+        <item>http://uk-mobile-news.nyb.netdna-cdn.com/feedapp?url=http%1$3A//search.twitter.com/search.json%2$3Fq%3$3D%4$2523uk%5$2520%2523news</item>
+    </string-array>
+    <string-array name="feedsInfo_es_rAR">
+        <item>Clarín</item>
+        <item>Clarín</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.clarin.com/rss/</item>
+        <item>La Nación</item>
+        <item>La Nación</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//servicios.lanacion.com.ar/herramientas/rss/origen%2$3D2</item>
+        <item>Crónica</item>
+        <item>Crónica</item>
+        <item>http://regione-news.nyb.netdna-cdn.com/feedapp?url=Cronica</item>
+        <item>Ámbito</item>
+        <item>Ámbito Financiero</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.ambito.com/rss/noticiasp.asp</item>
+        <item>Página 12</item>
+        <item>Página 12</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.pagina12.com.ar/diario/rss/principal.xml</item>
+        <item>La Capital</item>
+        <item>La Capital</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.lacapital.com.ar/rss/home.xml</item>
+        <item>La Prensa</item>
+        <item>Diario La Prensa</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.laprensa.com.ar/ResourcesManager.aspx%2$3FResource%3$3DRss.aspx%4$26Rss%5$3D8</item>
+        <item>El Pais</item>
+        <item>El Pais Argentina</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//elpais.com/tag/rss/argentina/a</item>
+        <item>La Razón</item>
+        <item>La Razón</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.larazon.com.ar/rss/</item>
+        <item>El Cronista</item>
+        <item>El Cronista</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.cronista.com/rss.html</item>
+        <item>Buenos Aires Herald</item>
+        <item>Buenos Aires Herald</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.buenosairesherald.com/articles/rss.aspx</item>
+        <item>Olé</item>
+        <item>Olé</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.ole.com.ar/rss/&amp;amp;d=y</item>
+        <item>TN</item>
+        <item>Todo Noticias</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//tn.com.ar/rss.xml</item>
+        <item>Infobae</item>
+        <item>Infobae</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.infobae.com/rss/hoy.xml</item>
+        <item>LaVoz</item>
+        <item>La Voz del Interior</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//rss.feedsportal.com/c/32838/f/533815/index.rss</item>
+        <item>Google News</item>
+        <item>Google Noticias</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//news.google.com.ar/news%2$3Fpz%3$3D1%4$26cf%5$3Dall%6$26ned%7$3Des_ar%8$26hl%9$3Des%10$26output%11$3Drss&amp;amp;d=y</item>
+    </string-array>
+    <string-array name="feedsInfo_es_rCO">
+        <item>El Tiempo</item>
+        <item>El Tiempo</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=ElTiempoCO</item>
+        <item>El Espectador</item>
+        <item>El Espectador</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=ElEspectadorCO</item>
+        <item>El Colombiano</item>
+        <item>El Colombiano</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=ElColombiano</item>
+        <item>El Nuevo Siglo</item>
+        <item>El Nuevo Siglo</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=ElNuevoSiglo</item>
+        <item>Diario Nacional</item>
+        <item>Diario Nacional</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=DiarioNacionalCO</item>
+        <item>Publimetro</item>
+        <item>Publimetro</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=PublimetroCO</item>
+        <item>Crónica del Quindío</item>
+        <item>La Crónica del Quindío</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=CronicaDelQuindioCO</item>
+        <item>La Opinión</item>
+        <item>La Opinión</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=LaOpinionCO</item>
+        <item>El Heraldo</item>
+        <item>El Heraldo</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=ElHeraldoCO</item>
+        <item>Google News</item>
+        <item>Google Noticias Colombia</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=GoogleNewsCO&amp;amp;d=y</item>
+        <item>Yahoo! Noticias</item>
+        <item>Yahoo! Noticias Colombia</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=YahooNoticiasCO</item>
+        <item>TodayColombia</item>
+        <item>TodayColombia</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=TodayColombia</item>
+    </string-array>
+    <string-array name="feedsInfo_es_rES">
+        <item>El País</item>
+        <item>El País</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//ep00.epimg.net/rss/elpais/portada.xml</item>
+        <item>El Mundo</item>
+        <item>El Mundo</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//elmundo.feedsportal.com/elmundo/rss/portada.xml</item>
+        <item>ABC</item>
+        <item>ABC.es</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.abc.es/rss/feeds/abcPortada.xml&amp;amp;d=y</item>
+        <item>La Vanguardia</item>
+        <item>La Vanguardia</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.feedburner.com/lavanguardia/home&amp;amp;d=y</item>
+        <item>El Periódico</item>
+        <item>El Periódico</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.elperiodico.com/es/rss/rss_portada.xml</item>
+        <item>La Razón</item>
+        <item>La Razón</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.larazon.es/RSS-portlet/feed/la-razon/portada&amp;amp;d=y</item>
+        <item>El Correo</item>
+        <item>El Correo</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.elcorreo.com/vizcaya/rss/feeds/ultima.xml</item>
+        <item>Público</item>
+        <item>Público</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.publico.es/rss/</item>
+        <item>324</item>
+        <item>324.cat</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.324.cat/rss/not_notportada_rss.xml&amp;amp;d=y</item>
+        <item>Ara.cat</item>
+        <item>Ara.cat</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.ara.cat/rss/</item>
+        <item>RTVE</item>
+        <item>RTVE</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.rtve.es/rss/temas_noticias.xml&amp;amp;d=y</item>
+        <item>Marca</item>
+        <item>Marca</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//marca.feedsportal.com/rss/portada.xml&amp;amp;d=y</item>
+        <item>El Confidencial</item>
+        <item>El Confidencial</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.elconfidencial.com/rss/portada.xml</item>
+        <item>CNN Español</item>
+        <item>CNN Español</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//cnnespanol.cnn.com/feed/</item>
+        <item>BBC Mundo</item>
+        <item>BBC Mundo</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.bbc.co.uk/mundo/index.xml</item>
+        <item>Sport.Es</item>
+        <item>Sport.Es</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.sport.es/es/rss/last_news/rss.xml&amp;amp;d=y</item>
+        <item>Mundo Deportivo</item>
+        <item>Mundo Deportivo</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.feedburner.com/mundodeportivo-poli&amp;amp;d=y</item>
+        <item>Expansión</item>
+        <item>Expansión</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//estaticos.expansion.com/rss/portada.xml&amp;amp;d=y</item>
+        <item>20 Minutos</item>
+        <item>20 Minutos</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//20minutos.feedsportal.com/c/32489/f/478284/index.rss</item>
+        <item>infoLibre</item>
+        <item>infoLibre</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.infolibre.es/index.php/mod.portadas/mem.rss</item>
+        <item>elDiario</item>
+        <item>elDiario.es</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.eldiario.es/rss/</item>
+        <item>Noticieiro Galego</item>
+        <item>Noticieiro Galego</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.noticieirogalego.com/feed/</item>
+        <item>Voz de Galicia</item>
+        <item>La Voz de Galicia</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.lavozdegalicia.es/index.xml</item>
+        <item>El Diario Vasco</item>
+        <item>El Diario Vasco</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.diariovasco.com/portada.xml</item>
+        <item>Qué!</item>
+        <item>Qué!</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.que.es/feeds/rss-portada.xml</item>
+        <item>La Nueva España</item>
+        <item>La Nueva España</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.lne.es/elementosInt/rss/55</item>
+        <item>Diario de Navarra</item>
+        <item>Diario de Navarra</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.diariodenavarra.es/index.php/mod.portadas/mem.rss</item>
+        <item>Heraldo de Aragón</item>
+        <item>Heraldo de Aragón</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.heraldo.es/index.php/mod.portadas/mem.rss</item>
+        <item>Levante-EMV</item>
+        <item>Levante-EMV</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=Levante-EMV</item>
+        <item>Vigo</item>
+        <item>Faro de Vigo</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=FaroDeVigo</item>
+        <item>Información</item>
+        <item>INFORMACION - Portada Alicante</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=InformacionAlicante</item>
+        <item>Diario Sur</item>
+        <item>Diario Sur</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=DiarioSur</item>
+        <item>Última Hora</item>
+        <item>Última Hora de Mallorca</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=UltimaHoraMallorca</item>
+        <item>ElPlural</item>
+        <item>ElPlural</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=ElPlural</item>
+        <item>Marca</item>
+        <item>Marca</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=MarcaES</item>
+        <item>AS</item>
+        <item>AS</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=ASSportES</item>
+    </string-array>
+    <string-array name="feedsInfo_es_rMX">
+        <item>El Universal</item>
+        <item>El Universal</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.eluniversal.com.mx/rss/universalmxm.xml</item>
+        <item>La Jornada</item>
+        <item>La Jornada</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//lajornada.dynamic.feedsportal.com/pf/626145/www.jornada.unam.mx/rss/edicion.xml</item>
+        <item>El Informador</item>
+        <item>El Informador</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//rss.informador.com.mx/informador-ultimas-noticias%2$3Fformat%3$3Dxml</item>
+        <item>Reforma</item>
+        <item>Reforma</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.reforma.com/rss/portada.xml</item>
+        <item>Milenio</item>
+        <item>Milenio</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//com.milenio.feedsportal.com/c/33388/f/600778/index.rss</item>
+        <item>Crónica</item>
+        <item>La Crónica de Hoy</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.cronica.com.mx/rss/rssSeccion.php%2$3Fid%3$3D1&amp;amp;d=y</item>
+        <item>El Economista</item>
+        <item>El Economista</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.economista.com.mx/ultimas-noticias/rss</item>
+        <item>Excelsior</item>
+        <item>Excelsior</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.excelsior.com.mx/rss/rss.php</item>
+        <item>CNN México</item>
+        <item>CNN México</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds2.feedburner.com/cnnmexico/portada</item>
+        <item>Terra</item>
+        <item>Terra</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.terra.com.mx/rss/Controller%2$3Fchannelid%3$3D539045a8e0ced210VgnVCM3000009af154d0RCRD%4$26ctName%5$3Datomo-noticia%6$26lg%7$3Des-mx</item>
+        <item>Univision</item>
+        <item>Univision</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feedsyn.univision.com/lo-ultimo-de-univision</item>
+        <item>EsMas</item>
+        <item>EsMas Televisa</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//rss.televisa.com/index.xml</item>
+        <item>Récord</item>
+        <item>Récord</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.record.com.mx/feed.rss</item>
+        <item>Proceso</item>
+        <item>Proceso</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//feeds.feedburner.com/proceso%2$3Fformat%3$3Dxml</item>
+        <item>Azteca</item>
+        <item>Azteca Noticias</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.aztecanoticias.com.mx/rss/todas.xml</item>
+    </string-array>
+    <string-array name="feedsInfo_fr">
+        <item>Le Monde</item>
+        <item>Le Monde</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.lemonde.fr/rss/une.xml</item>
+        <item>Le Figaro</item>
+        <item>Le Figaro</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.lefigaro.fr/c/32266/f/438191/index.rss</item>
+        <item>Les Echos</item>
+        <item>Les Echos</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//rss.feedsportal.com/c/499/f/413823/index.rss</item>
+        <item>Libération</item>
+        <item>Libération</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//liberation.fr.feedsportal.com/c/32268/fe.ed/rss.liberation.fr/rss/9/</item>
+        <item>Ouest-France</item>
+        <item>Ouest-France</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.ouest-france.fr/dma-rss_-Toutes-les-DMA-RSS_6346--fils-tous_filDMA.Htm%2$23xtor%3$3DRSS-3003</item>
+        <item>Nouvel Observateur</item>
+        <item>Le Nouvel Observateur</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//rss.nouvelobs.com/c/32262/fe.ed/tempsreel.nouvelobs.com/rss.xml</item>
+        <item>"l'Equipe"</item>
+        <item>"l'Equipe"</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.lequipe.fr/rss/actu_rss.xml</item>
+        <item>BFM TV</item>
+        <item>BFM TV</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.bfmtv.com/rss/home.rss</item>
+        <item>"l'Humanité"</item>
+        <item>"l'Humanité"</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.humanite.fr/backend.php</item>
+        <item>"L'Express"</item>
+        <item>"L'Express"</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.lexpress.fr/rss/alaune.xml</item>
+        <item>Le Parisien</item>
+        <item>Le Parisien</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.leparisien.fr/actualites-a-la-une.rss.xml</item>
+        <item>France 24</item>
+        <item>France 24</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.france24.com/fr/monde/rss</item>
+        <item>la Croix</item>
+        <item>la Croix</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.la-croix.com/layout/set/rss/content/view/rss/8604</item>
+        <item>Marianne</item>
+        <item>Marianne</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.marianne.net/xml/syndication.rss&amp;amp;d=y</item>
+        <item>Metro</item>
+        <item>Metro France</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.metrofrance.com/rss.xml%2$3Fc%3$3Dsection-news</item>
+        <item>Le Point</item>
+        <item>Le Point</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.lepoint.fr/rss.xml</item>
+        <item>la Tribune</item>
+        <item>la Tribune</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.latribune.fr/rss/rubriques/actualite.html</item>
+        <item>20 Minutes</item>
+        <item>20 Minutes</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//flux.20minutes.fr/c/32497/f/479493/index.rss</item>
+        <item>Rue 89</item>
+        <item>Rue 89</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//rue89.feedsportal.com/c/33822/f/608948/index.rss</item>
+        <item>Mediapart</item>
+        <item>Mediapart</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.mediapart.fr/articles/feed</item>
+        <item>Atlantico</item>
+        <item>Atlantico</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=Atlantico</item>
+        <item>Contrepoints</item>
+        <item>Contrepoints</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=ContrepointsFR</item>
+    </string-array>
+    <string-array name="feedsInfo_in">
+        <item>Suara Merdeka</item>
+        <item>Suara Merdeka</item>
+        <item>
+</item>
+        <item>Kontan</item>
+        <item>Kontan</item>
+        <item>http://rassegna-stampa.appspot.com/feedapp?url=Kontan</item>
+        <item>Republika</item>
+        <item>Republika</item>
+        <item>http://rassegna-stampa.appspot.com/feedapp?url=Republika</item>
+        <item>SWA</item>
+        <item>SWA</item>
+        <item>http://rassegna-stampa.appspot.com/feedapp?url=SWA</item>
+        <item>Bisnis</item>
+        <item>Bisnis</item>
+        <item>http://rassegna-stampa.appspot.com/feedapp?url=Bisnis</item>
+        <item>Poskota News</item>
+        <item>Poskota News</item>
+        <item>http://rassegna-stampa.appspot.com/feedapp?url=PoskotaNews</item>
+        <item>Jakarta Globe</item>
+        <item>Jakarta Globe</item>
+        <item>http://rassegna-stampa.appspot.com/feedapp?url=JakartaGlobe</item>
+        <item>Pikiran Rakyat</item>
+        <item>Pikiran Rakyat</item>
+        <item>http://rassegna-stampa.appspot.com/feedapp?url=PikiranRakyat</item>
+        <item>Detik</item>
+        <item>Detik</item>
+        <item>http://rassegna-stampa.appspot.com/feedapp?url=Detik</item>
+        <item>Tribun News</item>
+        <item>Tribun News</item>
+        <item>http://rassegna-stampa.appspot.com/feedapp?url=TribunNews</item>
+        <item>Harian Jogja</item>
+        <item>Harian Jogja</item>
+        <item>http://rassegna-stampa.appspot.com/feedapp?url=HarianJogja</item>
+        <item>Jakarta Post</item>
+        <item>Jakarta Post</item>
+        <item>http://rassegna-stampa.appspot.com/feedapp?url=JakartaPost</item>
+        <item>Gatra News</item>
+        <item>Gatra News</item>
+        <item>http://rassegna-stampa.appspot.com/feedapp?url=GatraNews</item>
+        <item>BolaNews</item>
+        <item>BolaNews</item>
+        <item>http://rassegna-stampa.appspot.com/feedapp?url=BolaNewsID</item>
+    </string-array>
+    <string-array name="feedsInfo_it">
+        <item>La Repubblica</item>
+        <item>La Repubblica</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//rss.feedsportal.com/c/32275/f/438637/index.rss</item>
+        <item>La Stampa</item>
+        <item>La Stampa</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.lastampa.it/rss.xml</item>
+        <item>Il Sole 24 Ore</item>
+        <item>Il Sole 24 Ore</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.ilsole24ore.com/c/32276/f/438662/index.rss</item>
+        <item>Il Messaggero</item>
+        <item>Il Messaggero</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.ilmessaggero.it/rss/home.xml</item>
+        <item>Il Giornale</item>
+        <item>Il Giornale</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.ilgiornale.it/rss.xml</item>
+        <item>Libero</item>
+        <item>Libero</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.libero-news.it/rss.jsp</item>
+        <item>Il Fatto Quotidiano</item>
+        <item>Il Fatto Quotidiano</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.ilfattoquotidiano.it/feed/</item>
+        <item>"L'Unità"</item>
+        <item>"L'Unità"</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.unita.it/cmlink/feed-homepage-1.244567</item>
+        <item>Adnkronos</item>
+        <item>Adnkronos</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//rss.feedsportal.com/c/32375/f/448344/index.rss</item>
+        <item>Ansa</item>
+        <item>Ansa</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//ansa.it/web/ansait_web_rss_homepage.xml</item>
+        <item>RaiNews24</item>
+        <item>RaiNews24</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.rainews24.it/ran24/rainews24_2007/RSS/rainews24_ultime.php</item>
+        <item>SkyTg24</item>
+        <item>SkyTg24</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.feedburner.com/SkyitTg24</item>
+        <item>TgCom24</item>
+        <item>TgCom24</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.tgcom24.mediaset.it/rss/homepage.xml</item>
+        <item>IBTimes</item>
+        <item>IBTimes</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//it.ibtimes.com/rss/articles/topnews/all.rss</item>
+        <item>Avvenire</item>
+        <item>Avvenire</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.avvenire.it/_layouts/Avvenire/feed.aspx&amp;amp;d=y</item>
+        <item>Il Mattino</item>
+        <item>Il Mattino</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=IlMattino</item>
+        <item>Il Tempo</item>
+        <item>Il Tempo</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.iltempo.it/cmlink/rssiltempoglobale-1.1107398</item>
+        <item>Il Manifesto</item>
+        <item>Il Manifesto</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=IlManifesto</item>
+        <item>Il Secolo XIX</item>
+        <item>Il Secolo XIX</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=IlSecoloXIX</item>
+        <item>Huffington Post</item>
+        <item>Huffington Post</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.huffingtonpost.com/feeds/verticals/italy/news.xml</item>
+        <item>Il Post</item>
+        <item>Il Post</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=IlPost</item>
+        <item>Sky Sport</item>
+        <item>Sky Sport</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.feedburner.com/SkyitSport</item>
+        <item>Corriere dello Sport</item>
+        <item>Corriere dello Sport</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.corrieredellosport.it/rss/primo_piano.xml</item>
+        <item>TuttoSport</item>
+        <item>TuttoSport</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.tuttosport.com/rss/primo_piano.xml</item>
+    </string-array>
+    <string-array name="feedsInfo_nl_rBE">
+        <item>HLN</item>
+        <item>Het Laatste Nieuws</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.hln.be/rss.xml</item>
+        <item>Nieuwsblad</item>
+        <item>Het Nieuwsblad</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//feeds.nieuwsblad.be/nieuws/snelnieuws%2$3Fformat%3$3Dxml</item>
+        <item>RTL</item>
+        <item>RTL Info</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.feedburner.com/Rtlinfos-ALaUne&amp;amp;d=y</item>
+        <item>Sudpresse</item>
+        <item>Sud Info</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.sudinfo.be/feed/3%2$3Fformat%3$3Drss&amp;amp;d=y</item>
+        <item>GVA</item>
+        <item>Gazet van Antwerpen</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//rss.feedsportal.com/c/865/f/413951/index.rss</item>
+        <item>HBVL</item>
+        <item>Het Belang van Limburg</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//asp.hbvl.be/syndicationservices/artfeedservice.svc/rss/overview/overzicht</item>
+        <item>Standaard</item>
+        <item>De Standaard</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.standaard.be/rss</item>
+        <item>Le Soir</item>
+        <item>Le Soir</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.lesoir.be/feed/La%2$20Une/destination_une_block</item>
+        <item>"L'Avenir"</item>
+        <item>"L'Avenir"</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.lavenir.net/rss.aspx%2$3Ffoto%3$3D1%4$26intro%5$3D1%6$26section%7$3Dinfo%8$26info%9$3D8f8012c3-d2ca-4192-9ae8-fc61d77cb44d</item>
+        <item>7SUR7</item>
+        <item>7 SUR 7</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.7sur7.be/rss.xml</item>
+        <item>De Morgen</item>
+        <item>De Morgen</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.demorgen.be/rss.xml</item>
+    </string-array>
+    <string-array name="feedsInfo_nl">
+        <item>VK</item>
+        <item>De Volkskrant</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.volkskrant.nl/rss.xml</item>
+        <item>DeTelegraaf</item>
+        <item>De Telegraaf</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.telegraaf.nl/rss/index.xm</item>
+        <item>NU.nl</item>
+        <item>NU.nl</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.nu.nl/feeds/rss/algemeen.rss</item>
+        <item>FD</item>
+        <item>Het Financieele Dagblad</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//fd.nl/%2$3Fwidget%3$3Drssfeed%4$26view%5$3Dfeed%6$26contentId%7$3D33810</item>
+        <item>NRC</item>
+        <item>NRC Handelsblad</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.nrc.nl/rss</item>
+        <item>AD</item>
+        <item>Algemeen Dagblad</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.ad.nl/rss.xml</item>
+        <item>Trouw</item>
+        <item>Trouw</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.trouw.nl/rss.xml</item>
+        <item>RefDag</item>
+        <item>RefDag</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.refdag.nl/nieuws/laatste-nieuws/reformatorisch_dagblad_laatste_nieuws_1_3773%2$3Fot%3$3Derdee.mmPopupPageLayout.ot&amp;amp;d=y</item>
+        <item>HetParool</item>
+        <item>Het Parool</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.parool.nl/rss.xml</item>
+        <item>WTF</item>
+        <item>WTF</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.wtf.nl/rss/home.rss</item>
+        <item>Metro</item>
+        <item>Metro</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.metronieuws.nl/rss.xml%2$3Fc%3$3D1277377288-0</item>
+        <item>NOS</item>
+        <item>NOS</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//feeds.nos.nl/nosmyheadlines%2$3Fformat%3$3Dxml&amp;amp;d=y</item>
+        <item>RTLNieuws</item>
+        <item>RTLNieuws</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.rtl.nl/service/rss/rtlnieuws/index.xml&amp;amp;d=y</item>
+        <item>GoogleNews</item>
+        <item>Google News</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//news.google.nl/news%2$3Fpz%3$3D1%4$26cf%5$3Dall%6$26ned%7$3Dnl_nl%8$26hl%9$3Dnl%10$26output%11$3Drss</item>
+        <item>DeGelderlander</item>
+        <item>De Gelderlander</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=DeGelderlander</item>
+        <item>DvhN</item>
+        <item>Dagblad van het Noorden</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=DvhN</item>
+        <item>Limburger</item>
+        <item>Dagblad De Limburger</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=Limburger</item>
+        <item>Noordhollands Dagblad</item>
+        <item>Noordhollands Dagblad</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=NoordhollandsDagblad</item>
+        <item>De Stentor</item>
+        <item>De Stentor</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=DeStentor</item>
+        <item>BD</item>
+        <item>Brabants Dagblad</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=BrabantsDagblad</item>
+    </string-array>
+    <string-array name="feedsInfo_pl">
+        <item>Fakt</item>
+        <item>Wiadomosci fakt</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=FaktPL</item>
+        <item>Gazeta Wyborcza</item>
+        <item>Najnowsze Wiadomosci Gazety Wyborczej</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=GazetaWyborczaPL</item>
+        <item>Rzeczpospolita</item>
+        <item>Rzeczpospolita</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=RzeczpospolitaPL</item>
+        <item>Gazeta Prawna</item>
+        <item>Gazeta Prawna</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=GazetaPrawnaPL</item>
+        <item>Wprost</item>
+        <item>Wprost 24</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=WprostPL</item>
+        <item>News Week</item>
+        <item>News Week</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=NewsWeekPL</item>
+        <item>Polska</item>
+        <item>Polska</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=PolskaPL</item>
+        <item>WP</item>
+        <item>Wirtualna Polska</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=WirtualnaPolskaPL</item>
+        <item>Niedziela</item>
+        <item>Niedziela.pl</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=NiedzielaPL</item>
+        <item>Najwyzszy Czas!</item>
+        <item>Najwyzszy Czas!</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=NajwyzszyCzasPL</item>
+        <item>Przeglad Sportowy</item>
+        <item>Przeglad Sportowy</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=PrzegladSportowyPL</item>
+    </string-array>
+    <string-array name="feedsInfo_pt_rBR">
+        <item>O Globo</item>
+        <item>O Globo</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//g1.globo.com/dynamo/rss2.xml&amp;amp;d=y</item>
+        <item>JB</item>
+        <item>Jornal do Brasil</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.jb.com.br/noticias/rss.xml</item>
+        <item>Estadao</item>
+        <item>O Estado de Sao Paulo</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//estadao.feedsportal.com/c/33043/f/534105/index.rss&amp;amp;d=y</item>
+        <item>Folha</item>
+        <item>Folha de Sao Paulo</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.folha.uol.com.br/emcimadahora/rss091.xml&amp;amp;d=y</item>
+        <item>Correio Braziliense</item>
+        <item>Correio Braziliense</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.correiobraziliense.com.br/rss/rss_brasil/</item>
+        <item>Terra</item>
+        <item>Terra</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.terra.com.br/rss/</item>
+        <item>Valor</item>
+        <item>Valor Econômico</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.valor.com.br/rss</item>
+        <item>Zero Hora</item>
+        <item>Zero Hora</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//br.zerohora.feedsportal.com/c/33341/f/566001/index.rss</item>
+        <item>UOL Notícias</item>
+        <item>UOL Notícias</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//rss.uol.com.br/feed/noticias.xml</item>
+        <item>CartaCapital</item>
+        <item>CartaCapital</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.cartacapital.com.br/atom.xml</item>
+        <item>VEJA</item>
+        <item>VEJA notícias</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//feeds.feedburner.com/noticiasveja%2$3Fformat%3$3Dxml</item>
+        <item>GoogleNews</item>
+        <item>Google News Brazil</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//news.google.com.br/news%2$3Fpz%3$3D1%4$26cf%5$3Dall%6$26ned%7$3Dpt-BR_br%8$26hl%9$3Dpt-BR%10$26output%11$3Drss</item>
+        <item>Gazeta Esportiva</item>
+        <item>Gazeta Esportiva</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.gazetaesportiva.net/rss/jogoRapido.xml</item>
+        <item>R7</item>
+        <item>R7 notícias</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.r7.com/blogs/rss/noticias/&amp;amp;d=y</item>
+        <item>UltimoInstante</item>
+        <item>Ultimo Instante</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.ultimoinstante.com.br/feed/index.1.rss</item>
+        <item>EXAME</item>
+        <item>EXAME Notícias</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//feeds.feedburner.com/EXAME-Noticias%2$3Fformat%3$3Dxml&amp;amp;d=y</item>
+    </string-array>
+    <string-array name="feedsInfo_pt">
+        <item>Público</item>
+        <item>Público</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=PublicoPT</item>
+        <item>DN</item>
+        <item>Diário de Notícias</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.dn.pt/DN-Ultimas</item>
+        <item>Correio da Manhã</item>
+        <item>Correio da Manhã</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.cmjornal.xl.pt/rss/rss.aspx</item>
+        <item>Sapo</item>
+        <item>Sapo Notícias - Geral</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//noticias.sapo.pt/rss/news/</item>
+        <item>RTP</item>
+        <item>RTP</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.rtp.pt/noticias/index.php%2$3Fheadline%3$3D204%4$26visual%5$3D58</item>
+        <item>Expresso</item>
+        <item>Expresso</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//expresso.sapo.pt/static/rss/atualidade--arquivo_23412.xml</item>
+        <item>DD</item>
+        <item>Diário Digital</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%1$3A//feeds.feedburner.com/ddUltimas%2$3Fformat%3$3Dxml</item>
+        <item>JN</item>
+        <item>Jornal de Notícias</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.jn.pt/JN-ULTIMAS</item>
+        <item>Jornal Digital</item>
+        <item>Jornal Digital</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//jornaldigital.com/feed.php&amp;amp;d=y</item>
+        <item>Jornal de Negócios</item>
+        <item>Jornal de Negócios</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.jornaldenegocios.pt/funcionalidades/Rss.aspx</item>
+        <item>Económico</item>
+        <item>Diário Económico</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//economico.sapo.pt/rss/ultimas.html</item>
+        <item>OJE</item>
+        <item>O Jornal Económico</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.oje.pt/rss</item>
+        <item>A Bola</item>
+        <item>A Bola</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//rss.feedsportal.com/c/32502/f/480420/index.rss</item>
+        <item>Record</item>
+        <item>Record</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.record.xl.pt</item>
+        <item>O Jogo</item>
+        <item>O Jogo</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.ojogo.pt/OJ-Ultimas</item>
+        <item>Destak</item>
+        <item>Destak</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.destak.pt/DestakRSS</item>
+    </string-array>
+    <string-array name="feedsInfo_tw">
+        <item>????</item>
+        <item>????</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//www.libertytimes.com.tw/rss/fo.xml</item>
+        <item>China Post</item>
+        <item>The China Post</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//www.chinapost.com.tw/rss/front.xml</item>
+        <item>?????</item>
+        <item>?????</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//chinatimes.feedsportal.com/c/33012/f/537199/index.rss</item>
+        <item>SCMP</item>
+        <item>South China Morning Post</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//www.scmp.com/rss/91/feed</item>
+        <item>Taipei Times</item>
+        <item>Taipei Times</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//www.taipeitimes.com/xml/index.rss</item>
+        <item>???????</item>
+        <item>???????</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//feeds.feedburner.com/cnaFirstNews</item>
+        <item>??????</item>
+        <item>Taiwan News</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=TaiwanNews</item>
+        <item>RTI</item>
+        <item>RTI News</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=TaiwanRTINews</item>
+        <item>Yahoo!</item>
+        <item>Yahoo News</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//tw.news.yahoo.com/rss/</item>
+        <item>NOWnews</item>
+        <item>NOWnews</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%1$3A//feeds.feedburner.com/nownews/JigX%2$3Fformat%3$3Dxml</item>
+        <item>Google ??</item>
+        <item>???? - Google ??</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%1$3A//news.google.com.tw/news%2$3Fpz%3$3D1%4$26cf%5$3Dall%6$26ned%7$3Dtw%8$26hl%9$3Dzh-TW%10$26output%11$3Drss</item>
+        <item>ETToday</item>
+        <item>ETToday</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%1$3A//feeds.feedburner.com/ettoday/realtime%2$3Fformat%3$3Dxml</item>
+    </string-array>
+    <string-array name="feedsInfo_zh">
+        <item>????</item>
+        <item>????</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//www.dwnews.com/rss/news.xml</item>
+        <item>???</item>
+        <item>????</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//www.people.com.cn/rss/politics.xml</item>
+        <item>???</item>
+        <item>??</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//rss.huanqiu.com/world/well_read.xml</item>
+        <item>???</item>
+        <item>????</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//www.xinhuanet.com/politics/news_politics.xml</item>
+        <item>?????</item>
+        <item>?????</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//www.chinanews.com/rss/scroll-news.xml</item>
+        <item>????</item>
+        <item>????</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//www.infzm.com/rss/home/rss2.0.xml</item>
+        <item>??</item>
+        <item>??????</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//news.163.com/special/00011K6L/rss_newstop.xml</item>
+        <item>Sina.com</item>
+        <item>Sina.com</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//rss.sina.com.cn/news/marquee/ddt.xml</item>
+        <item>????</item>
+        <item>????</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//news.qq.com/newsgn/rss_newsgn.xml</item>
+        <item>Google ??</item>
+        <item>Google ??</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%1$3A//news.google.com/news/popular%2$3Fned%3$3Dcn%4$26topic%5$3Dpo%6$26output%7$3Drss</item>
+        <item>FT???</item>
+        <item>??«????»</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//www.ftchinese.com/rss/feed</item>
+        <item>?? ???</item>
+        <item>Xinhua News</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//www.xinhuanet.com/english/rss/chinarss.xml</item>
+        <item>????</item>
+        <item>????</item>
+        <item>https://chn2-nyb.netdna-ssl.com/feedapp?url=http%3A//www.sznews.com/RSS/yw.xml</item>
+    </string-array>
+    <string-array name="feedsInfo">
+        <item>NY Daily News</item>
+        <item>NY Daily News Top Stories</item>
+        <item>http://usa.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.feedburner.com/nydnrss/news</item>
+        <item>USA Today</item>
+        <item>USA Today Top Stories</item>
+        <item>http://usa.nyb.netdna-cdn.com/feedapp?url=http%3A//rssfeeds.usatoday.com/usatoday-NewsTopStories</item>
+        <item>L.A.Times</item>
+        <item>L.A.Times Latest</item>
+        <item>http://usa.nyb.netdna-cdn.com/feedapp?url=http%1$3A//feeds.latimes.com/latimes/news%2$3Fformat%3$3Dxml</item>
+        <item>Huffington Post</item>
+        <item>Huffington Post</item>
+        <item>http://usa.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.huffingtonpost.com/huffingtonpost/raw_feed</item>
+        <item>CNN</item>
+        <item>CNN U.S.</item>
+        <item>http://usa.nyb.netdna-cdn.com/feedapp?url=http%3A//rss.cnn.com/rss/cnn_us.rss</item>
+        <item>Washington Post</item>
+        <item>Washington Post National</item>
+        <item>http://usa.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.washingtonpost.com/rss/national</item>
+        <item>MSNBC</item>
+        <item>MSNBC U.S.</item>
+        <item>http://usa.nyb.netdna-cdn.com/feedapp?url=http%3A//rss.msnbc.msn.com/id/3032524/device/rss/rss.xml</item>
+        <item>NPR</item>
+        <item>NPR</item>
+        <item>http://usa.nyb.netdna-cdn.com/feedapp?url=http%1$3A//www.npr.org/rss/rss.php%2$3Fid=1001</item>
+        <item>Reuters</item>
+        <item>Reuters Top News</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=ReutersUS</item>
+        <item>NYPost</item>
+        <item>Ney York Post</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=NYPostFeed</item>
+        <item>Newsday</item>
+        <item>Newsday Breaking News</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=NewsdayBreaking</item>
+        <item>Denver Post</item>
+        <item>Denver Post</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=DenverPost</item>
+        <item>Dallas Morning</item>
+        <item>The Dallas Morning News</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=DallasMorning</item>
+        <item>ABC News</item>
+        <item>ABCNews Top Stories</item>
+        <item>http://usa.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.abcnews.com/abcnews/topstories</item>
+        <item>Fox News</item>
+        <item>Fox News Latest</item>
+        <item>http://usa.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.foxnews.com/foxnews/latest</item>
+        <item>Yahoo!</item>
+        <item>Yahoo! News U.S.</item>
+        <item>http://usa.nyb.netdna-cdn.com/feedapp?url=http%3A//news.yahoo.com/rss/us</item>
+        <item>NY Sun</item>
+        <item>NY Sun National</item>
+        <item>http://usa.nyb.netdna-cdn.com/feedapp?url=http%3A//www.nysun.com/edition/national_rss_2.0.xml</item>
+        <item>ESPN</item>
+        <item>ESPN</item>
+        <item>http://usa.nyb.netdna-cdn.com/feedapp?url=http%3A//sports.espn.go.com/espn/rss/news</item>
+        <item>Daily Beast</item>
+        <item>The Daily Beast</item>
+        <item>http://usa.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.feedburner.com/thedailybeast/articles</item>
+        <item>Forbes</item>
+        <item>Forbes</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.forbes.com/real-time/feed2/</item>
+        <item>Reason</item>
+        <item>Reason.com</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//reason.com/24-7/atom.xml</item>
+        <item>Salon</item>
+        <item>Salon.com</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.salon.com/feed/</item>
+        <item>The Nation</item>
+        <item>The Nation</item>
+        <item>http://rst.nyb.netdna-cdn.com/feedapp?url=http%3A//www.thenation.com/rss/articles</item>
+        <item>/r/usa</item>
+        <item>USA Reddit</item>
+        <item>http://usa.nyb.netdna-cdn.com/feedapp?url=http%3A//www.reddit.com/r/usa/.json</item>
+        <item>WSJ</item>
+        <item>Wall Street Journal (not all free)</item>
+        <item>http://usa.nyb.netdna-cdn.com/feedapp?url=http%3A//online.wsj.com/xml/rss/3_7011.xml&amp;amp;d=y</item>
+        <item>NY Times</item>
+        <item>NY Times HomePage U.S. (10 free articles each month)</item>
+        <item>http://usa.nyb.netdna-cdn.com/feedapp?url=http%3A//feeds.nytimes.com/nyt/rss/HomePage&amp;amp;d=y</item>
+    </string-array>
+    <string-array name="supportedCountries">
+        <item>Automatic</item>
+        <item>Argentina (Spanish)</item>
+        <item>Australia (English)</item>
+        <item>Austria (German)</item>
+        <item>Belgium (Various languages)</item>
+        <item>Brazil (Portuguese)</item>
+        <item>Canada (English and French)</item>
+        <item>China (Chinese)</item>
+        <item>Colombia (Spanish)</item>
+        <item>France (French)</item>
+        <item>Germany (German)</item>
+        <item>India (Hindi and English)</item>
+        <item>Indonesia (Indonesian and English)</item>
+        <item>Ireland (English)</item>
+        <item>Italy (Italian)</item>
+        <item>Kenya (English)</item>
+        <item>Malaysia (Various Languages)</item>
+        <item>Mexico (Spanish)</item>
+        <item>Netherlands (Dutch)</item>
+        <item>Nigeria (English)</item>
+        <item>Poland (Polish)</item>
+        <item>Portugal (Portuguese)</item>
+        <item>South Africa (English and Afrikaans)</item>
+        <item>Spain (Spanish)</item>
+        <item>Switzerland (Various languages)</item>
+        <item>Taiwan (Chinese)</item>
+        <item>United Kingdom (English)</item>
+        <item>United States (English)</item>
+    </string-array>
+    <string-array name="supportedCountriesValues">
+        <item></item>
+        <item>es-ar</item>
+        <item>en-au</item>
+        <item>de-at</item>
+        <item>nl-be</item>
+        <item>pt-br</item>
+        <item>en-ca</item>
+        <item>zh-zh</item>
+        <item>es-co</item>
+        <item>fr-fr</item>
+        <item>de-de</item>
+        <item>hi-in</item>
+        <item>in-id</item>
+        <item>en-ie</item>
+        <item>it-it</item>
+        <item>en-ke</item>
+        <item>ms-my</item>
+        <item>es-mx</item>
+        <item>nl-nl</item>
+        <item>en-ng</item>
+        <item>pl-pl</item>
+        <item>pt-pt</item>
+        <item>af-za</item>
+        <item>es-es</item>
+        <item>de-ch</item>
+        <item>zh-tw</item>
+        <item>en-gb</item>
+        <item>en-us</item>
+    </string-array>
+    <string-array name="supportedLocalizationsFeeds">
+        <item>feedsInfo</item>
+        <item>feedsInfo_es_rAR</item>
+        <item>feedsInfo_en_rAU</item>
+        <item>feedsInfo_de_rAT</item>
+        <item>feedsInfo_nl_rBE</item>
+        <item>feedsInfo_pt_rBR</item>
+        <item>feedsInfo_en_rCA</item>
+        <item>feedsInfo_zh</item>
+        <item>feedsInfo_es_rCO</item>
+        <item>feedsInfo_fr</item>
+        <item>feedsInfo_de</item>
+        <item>feedsInfo_en_rIN</item>
+        <item>feedsInfo_in</item>
+        <item>feedsInfo_en_rIE</item>
+        <item>feedsInfo_it</item>
+        <item>feedsInfo_en_rKE</item>
+        <item>feedsInfo_en_rMY</item>
+        <item>feedsInfo_es_rMX</item>
+        <item>feedsInfo_nl</item>
+        <item>feedsInfo_en_rNG</item>
+        <item>feedsInfo_pl</item>
+        <item>feedsInfo_pt</item>
+        <item>feedsInfo_af_rZA</item>
+        <item>feedsInfo_es_rES</item>
+        <item>feedsInfo_de_rCH</item>
+        <item>feedsInfo_tw</item>
+        <item>feedsInfo_en_rUK</item>
+        <item>feedsInfo</item>
+    </string-array>
+    <string-array name="ImagesDownloadText">
+        <item>Always</item>
+        <item>WiFi Only</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="ImagesDownloadValues">
+        <item>Y</item>
+        <item>W</item>
+        <item>N</item>
+    </string-array>
+</resources>
